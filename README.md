@@ -10,6 +10,8 @@ Baixe a versão portátil para Windows em **Releases**: [versão mais recente](h
 
 O pacote inclui o aplicativo e seus componentes. Você não precisa instalar Python. Mantenha todos os arquivos extraídos juntos. Seus livros e preferências ficam na pasta de dados do usuário do Windows.
 
+O arquivo `SHA256SUMS.txt` nos arquivos da versão permite conferir a integridade do ZIP.
+
 ## Código fonte e outras plataformas
 
 Este repositório contém a distribuição executável para Windows x64. Para Linux, macOS, código fonte, instruções para executar com Python e contribuições, acesse o [repositório principal do Juvion](https://github.com/wildfire96/Juvion).
