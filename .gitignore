@@ -1,0 +1,3 @@
+# Download packages are attached to GitHub Releases, not stored as Git blobs.
+*.zip
+*.exe
